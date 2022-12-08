@@ -1,4 +1,4 @@
-### Olá 👋, eu sou o Leandro Mancini, apaixonado por frontend!
+### Olá 👋, sou o Leandro Mancini, apaixonado por frontend!
 
 <div>
   <a href="https://github.com/leandro-mancini">
