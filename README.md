@@ -19,6 +19,12 @@
   <img align="center" alt="Mancini-Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
 </div>
 
+---
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=leandro-mancini&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 ##
 
 <div> 
