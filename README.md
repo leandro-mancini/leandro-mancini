@@ -21,12 +21,6 @@
 
 ---
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=leandro-mancini&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-##
-
 <div> 
   <a href="https://www.instagram.com/mancini.code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mancini.le@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
