@@ -12,7 +12,7 @@ Um **engenheiro de software** interessado em Frontend, DX, DevOps e infraestrutu
   
 - 👨🏼‍💻 Colaborador em [@grito](https://github.com/GritoApp)
   
-- 📝 Crie seu próprio sistema de design: [ditto.com.br](http://ditto.com.br/) - [código-fonte](https://github.com/leandro-mancini/ditto)
+- 📝 Crie seu próprio sistema de design: [ditto.dev](http://ditto.dev/) - [código-fonte](https://github.com/leandro-mancini/ditto)
 
 ### Minha pilha de tecnologia
 
