@@ -1,31 +1,21 @@
-### Olá 👋, sou o Leandro Mancini, apaixonado por frontend!
+### Olá 👋, eu sou Mancini!
 
-<div>
-  <a href="https://github.com/leandro-mancini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-mancini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-mancini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Um **engenheiro de software** interessado em Frontend, DX, observabilidade, DevOps e infraestrutura como código.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mancini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mancini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mancini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mancini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mancini-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Mancini-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Mancini-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Mancini-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Mancini-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Mancini-Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-</div>
+📘 Leia meu blog: [blog.mancinidev.me](blog.mancinidev.me)
 
----
+🌐 Confira meu site: [mancinidev.me](mancinidev.me)
 
-<div> 
-  <a href="https://www.instagram.com/mancini.code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mancini.le@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-mancini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/leandro-mancini/leandro-mancini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### Projetos em que estou trabalhando
+
+- 👨🏼‍💻 Colaborador em [@picpay](https://github.com/PicPay)
+- 👨🏼‍💻 Colaborador em [@grito](https://github.com/GritoApp)
+- 📝 Crie seu próprio sistema de design: [ditto.com.br](http://ditto.com.br/) - [código-fonte](https://github.com/leandro-mancini/ditto)
+
+### Minha pilha de tecnologia
+
+- Front-end: `Angular` - `Flutter` - `React` - `React native` - `Web Components`
+- Backend `Node.js`
+- Nuvem: `AWS`
+- CI/CD: `GitHub Actions`
+- Outros: `CSS3` - `Cucumber` - `Cypress` - `HTML5` - `Javascript` -  `Jest` - `Nx` - `Stenciljs` - `Storybook` - `Typescript`
