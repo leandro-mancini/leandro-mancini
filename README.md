@@ -1,6 +1,6 @@
 ### Olá 👋, eu sou Mancini!
 
-Um **engenheiro de software** interessado em Frontend, DX, observabilidade, DevOps e infraestrutura como código.
+Um **engenheiro de software** interessado em Frontend, DX, DevOps e infraestrutura como código.
 
 📘 Leia meu blog: [blog.mancinidev.me](blog.mancinidev.me)
 
