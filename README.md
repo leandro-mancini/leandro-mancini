@@ -2,9 +2,9 @@
 
 Um **engenheiro de software** interessado em Frontend, DX, DevOps e infraestrutura como código.
 
-📘 Leia meu blog: [blog.mancinidev.me](blog.mancinidev.me)
+📘 Leia meu blog: [blog.mancinidev.me](https://blog.mancinidev.me)
 
-🌐 Confira meu site: [mancinidev.me](mancinidev.me)
+🌐 Confira meu site: [mancinidev.me](https://mancinidev.me)
 
 ### Projetos em que estou trabalhando
 
