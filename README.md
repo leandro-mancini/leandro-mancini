@@ -11,8 +11,10 @@ Um **engenheiro de software** interessado em Frontend, DX, DevOps e infraestrutu
 - 👨🏼‍💻 Colaborador em [@picpay](https://github.com/PicPay)
   
 - 👨🏼‍💻 Colaborador em [@grito](https://github.com/GritoApp)
-  
-- 📝 Crie seu próprio sistema de design: [ditto.dev](http://ditto.dev/) - [código-fonte](https://github.com/leandro-mancini/ditto)
+
+- 👨🏼‍💻 Colaborador em [ditto.dev](http://ditto.dev/) - [código-fonte](https://github.com/leandro-mancini/ditto)
+
+- 👨🏼‍💻 Estudando React Native
 
 ### Minha pilha de tecnologia
 
