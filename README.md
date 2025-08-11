@@ -12,6 +12,8 @@ Um **engenheiro de software** interessado em Frontend, DX, DevOps e infraestrutu
   
 - 👨🏼‍💻 Colaborador em [@grito](https://github.com/GritoApp)
 
+- 👨🏼‍💻 Colaborador em [@schedulee](https://github.com/ScheduleeApp)
+
 - 👨🏼‍💻 Colaborador em [ditto.dev](http://ditto.dev/) - [código-fonte](https://github.com/leandro-mancini/ditto)
 
 - 👨🏼‍💻 Estudando React Native
