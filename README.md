@@ -20,7 +20,7 @@ Um **engenheiro de software** interessado em Frontend, DX, DevOps e infraestrutu
 
 - Front-end: `Angular` - `Flutter` - `React` - `React native` - `Web Components`
   
-- Backend `Node.js`
+- Backend `Node`
   
 - Nuvem: `AWS`
   
