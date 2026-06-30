@@ -10,11 +10,7 @@ Um **engenheiro de software** interessado em Frontend, DX, DevOps e infraestrutu
 
 - 👨🏼‍💻 Colaborador em [@picpay](https://github.com/PicPay)
   
-- 👨🏼‍💻 Colaborador em [@grito](https://github.com/GritoApp)
-
-- 👨🏼‍💻 Colaborador em [@schedulee](https://github.com/ScheduleeApp)
-
-- 👨🏼‍💻 Colaborador em [ditto.dev](http://ditto.dev/) - [código-fonte](https://github.com/leandro-mancini/ditto)
+- 👨🏼‍💻 Colaborador em [@morphle-ui](https://github.com/morphle-ui)
 
 - 👨🏼‍💻 Estudando React Native
 
